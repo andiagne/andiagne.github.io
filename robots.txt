@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andiagne.github.io/sitemap.xml
